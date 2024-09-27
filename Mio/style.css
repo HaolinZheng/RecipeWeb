@@ -1,0 +1,27 @@
+body {
+  font-family: Outfit;
+  background-color: hsl(30, 54%, 90%);
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+  width: 100%;
+  border-radius: 20px;
+}
+.principal_div{
+  background-color: hsl(0, 0%, 100%);
+  margin: 10% 25% 10% 25%;
+  padding: 3% 3% 3% 3%;
+  border-radius: 25px;
+}
+h1 {
+  font-family: YoungSerif, ;
+}
+@font-face {
+  font-family: Outfit;
+  src: url(../assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: YoungSerif;
+  src: url(../assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
